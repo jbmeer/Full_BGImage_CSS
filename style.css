@@ -1,0 +1,21 @@
+
+body, html 
+{
+   height: 100%;
+  margin: 0px;}
+
+.mountains {background-image: url("images/mountains.jpg");
+  height:75%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*
+.full-width-image {
+  height: 
+  background-image: url('images/mountains.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+
+}
+*/
